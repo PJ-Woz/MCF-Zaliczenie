@@ -1,7 +1,7 @@
 # Release notes v. 1.2
 
 ## HTML
-- Added new a logo and favicon
+- Added a new logo and favicon
 - Added alt text to images
 - Added conditional tags for HTML and PDF output in the following:
 	- `Introduction.htm`
