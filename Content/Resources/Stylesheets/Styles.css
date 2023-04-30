@@ -105,7 +105,7 @@ img
 
 p
 {
-	font-size: 12.0pt;
+	font-size: 11pt;
 	margin-top: 20px;
 	margin-bottom: 20px;
 	line-height: 20pt;
@@ -609,7 +609,7 @@ ol
 
 ul
 {
-	line-height: 15pt;
+	font-size: 11pt;
 }
 
 @media only screen and (max-width: 1279px)
@@ -825,12 +825,23 @@ ul
 
 	p.TOC1
 	{
-		font-size: 17pt;
+		font-size: 16pt;
+		line-height: 20pt;
 	}
 
 	img
 	{
 		
+	}
+
+	p.TOC2
+	{
+		font-size: 12pt;
+	}
+
+	p.TOC3
+	{
+		font-size: 10pt;
 	}
 }
 
